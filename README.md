@@ -5,6 +5,6 @@ Structure:
   Controllers
   Models
   Routes
-  Index - like a main class? 
+  Index 
  
 If you want to improve my code feel free to make a pull request..
